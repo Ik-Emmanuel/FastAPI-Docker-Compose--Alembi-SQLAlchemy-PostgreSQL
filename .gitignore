@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.gitignore
+
+gitignore
 
 # C extensions
 *.so
+versions/
 
 # Distribution / packaging
 .Python
@@ -127,3 +131,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
